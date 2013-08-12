@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
  s.version = "1.0.0" 
  s.summary = "Apple Binary and XML Property Lists"
 
- s.homepage = "https://github.com/Chronic-Dev/libplist" 
+ s.homepage = "https://github.com/libimobiledevice/libplist" 
  s.license = { :type => 'GPL', :file => 'COPYING' }
 
  s.author = 'Chris Stroud' 
